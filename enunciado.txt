@@ -1,0 +1,10 @@
+Vamos a crear un generadir de proyectos en plantillas a usar
+
+Necesitamos dos plantillas:
+-p5js
+-Hola mundo en espress
+
+Ejemplo de uso
+
+````bash
+template creator p5 #esto crea una carpeta llamada p5 con los archivos necesariors.
