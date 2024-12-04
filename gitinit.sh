@@ -1,5 +1,5 @@
 #!/bin/bash
-nombre_proyecto=s1
+nombre_proyecto=$1
 
 echo "valor de entrada: $1"
 
