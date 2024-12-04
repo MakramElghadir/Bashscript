@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "hello world"
 
-figlet good day cunts
+figlet good day
 mkdir notas
 echo "Oi" > archivo.txt
